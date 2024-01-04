@@ -1,0 +1,37 @@
+aside{
+    width: 250px;
+    list-style: none;
+
+}
+.aside1 a{
+    text-decoration: unset;
+    color: black;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+
+}
+.aside1{
+    list-style: none;
+}
+img{
+    border-radius: 100px;
+    width: 30;
+    height: 30;
+
+}
+.Home{
+    background-color: rgb(191, 191, 191);
+    border-radius: 30px;
+    font-weight: bolder;
+
+}
+.aside1 a:hover{
+    background-color: rgb(161, 160, 160);
+    border: 50px;
+    border-radius: 30px;
+}
+
+.subscriptions{
+    font-weight: bolder;
+}
